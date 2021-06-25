@@ -1,13 +1,2 @@
-- 👋 Hi, I’m @mohanbera
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 - 👀 Github: Who are u?
-- 👋 me: I am a Competitive Prgrammer,
-              a Developer,
-              a Sports Person,
-              a Gamer,
-                 & 
-              a Dreamer.
+- 👋 Me: I am a Competitive Prgrammer, a Developer, a Sports Person, a Gamer, & a Dreamer.
