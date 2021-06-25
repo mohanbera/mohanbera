@@ -1,2 +1,6 @@
 - 👀 Github: Who are u?
 - 👋 Me: I am a Competitive Prgrammer, a Developer, a Sports Person, a Gamer, & a Dreamer.
+- 👀 Github: How to reach you?
+- 👋 Me: Currently living in planet Earth, it's a beautiful place.
+- 👀 Github: What do you currently working on?
+- 👋 Me: Working in a project which can read the mind of the person who is reading this.
