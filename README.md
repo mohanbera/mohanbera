@@ -3,4 +3,4 @@
 - 👀 Github: How to reach you?
 - 👋 Me: Currently living in planet Earth, it's a beautiful place.
 - 👀 Github: What do you currently working on?
-- 👋 Me: Working in a project which can read the mind of the person who is reading this.
+- 👋 Me: Working on a project which can read the mind of the person who is reading this.
